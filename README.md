@@ -31,7 +31,7 @@
 Для начала работы склонируйте репозиторий и установите зависимости, после запустите проект:
 
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/xnnn8ns/TeskTaskVkFrontOk.git
 npm install
 npm start
 ```
